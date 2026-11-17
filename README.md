@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Mã Phú Quý — Data Engineer (Fresher) tại TP. Hồ Chí Minh. SQL · Python · MySQL · ELT · Data Warehouse." />
+<img src="assets/hero.svg" width="100%" alt="Mã Phú Quý — Data Engineer (Fresher), TP. Hồ Chí Minh. Một lần chạy pipeline: extract, transform, quality, reconcile, load." />
 
 <br/>
 
@@ -15,13 +15,13 @@
 
 <img src="assets/header_01.svg" width="100%" alt="01 · About" />
 
-<img src="assets/about.svg" width="100%" alt="profile.yml — Mã Phú Quý, Data Engineer (Fresher), TP. Hồ Chí Minh. Cử nhân Kỹ thuật Phần mềm, ĐH Gia Định (04/2026). Thế mạnh: pipeline ELT gia tăng theo watermark, upsert idempotent, rollback khi lỗi; Data Warehouse, Star Schema; kiểm tra chất lượng và đối soát dữ liệu; Data Dictionary, Data Lineage, pytest; Power BI, Tableau." />
+<img src="assets/about.svg" width="100%" alt="Star schema fct_quy — Mã Phú Quý, Data Engineer (Fresher), TP. Hồ Chí Minh. Cử nhân Kỹ thuật Phần mềm, ĐH Gia Định (04/2026). Thế mạnh: pipeline ELT gia tăng theo watermark, upsert idempotent, rollback khi lỗi; Data Warehouse, Star Schema; kiểm tra chất lượng và đối soát dữ liệu; Data Dictionary, Data Lineage, pytest; Power BI, Tableau." />
 
 <br/><br/>
 
 <img src="assets/header_02.svg" width="100%" alt="02 · Impact" />
 
-<img src="assets/impact.svg" width="100%" alt="Impact: 99.441 đơn hàng qua pipeline ELT gia tăng; 1.000.000 bản ghi trong kho dữ liệu MySQL; 17 test tự động bằng pytest; 18 phép kiểm tra chất lượng dữ liệu; phát hiện 500+ product ID bị gán nhiều category/brand; 0 dòng mất, 0 dòng trùng khi chạy lại." />
+<img src="assets/impact.svg" width="100%" alt="Impact: 99.441 đơn hàng qua pipeline ELT gia tăng; 1.000.000 bản ghi trong kho dữ liệu MySQL; 229.498 giá trị rating lệch ở 9.000 seller được phát hiện; 500+ product ID gán sai category/brand; 17 test pytest; 7/7 checks khớp mỗi lần chạy." />
 
 <br/><br/>
 
