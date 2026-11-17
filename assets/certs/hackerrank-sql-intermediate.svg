@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" xml:space="preserve"><style>
+.m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Consolas,'Courier New',monospace} .s{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes inL{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:none}}
+@keyframes pop{0%{opacity:0}60%{opacity:1}100%{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-40}}
+@keyframes draw{from{stroke-dashoffset:var(--len)}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.in{animation:in .6s ease-out both}
+.inL{animation:inL .6s ease-out both}
+.pop{animation:pop .5s ease-out both}
+.caret{animation:blink 1s steps(1) infinite}
+.pulse{animation:pulse 2s ease-in-out infinite}
+.flow{stroke-dasharray:4 6;animation:flow 1.6s linear infinite}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 2.4s cubic-bezier(.4,0,.2,1) both}
+</style><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient><linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="440" y2="0"><stop offset="0" stop-color="#34D399" stop-opacity=".8"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#34D399" stroke-opacity=".045"/></pattern></defs><rect x="1" y="1" width="438" height="298" rx="14" fill="#0A1712" stroke="#1C3A2C"/><rect x="1" y="1" width="438" height="298" rx="14" fill="url(#grid)"/><path d="M7 19V7H19" fill="none" stroke="#34D399" stroke-opacity=".55" stroke-width="1.5"/><path d="M433 19V7H421" fill="none" stroke="#34D399" stroke-opacity=".55" stroke-width="1.5"/><path d="M7 281V293H19" fill="none" stroke="#34D399" stroke-opacity=".55" stroke-width="1.5"/><path d="M433 281V293H421" fill="none" stroke="#34D399" stroke-opacity=".55" stroke-width="1.5"/><text x="220.0" y="46" text-anchor="middle" class="m" font-size="10.5" letter-spacing="2" fill="#5E8574">HACKERRANK · CERTIFICATE</text><path d="M160.0 58H280.0" stroke="#34D399" stroke-opacity=".4"/><g class="in" style="animation-delay:0.20s"><text x="220.0" y="106" text-anchor="middle" class="s" font-size="26" font-weight="800" fill="url(#g)">SQL (Intermediate)</text></g><g class="in" style="animation-delay:0.40s"><text x="220.0" y="136" text-anchor="middle" class="m" font-size="11.5" fill="#A7C4B5">awarded to</text><text x="220.0" y="164" text-anchor="middle" class="s" font-size="18" font-weight="700" fill="#E2F5EC">Mã Phú Quý</text></g><g class="pop" style="animation-delay:0.70s"><circle cx="220.0" cy="214" r="24" fill="#34D399" fill-opacity=".1" stroke="#34D399"/><circle class="pulse" cx="220.0" cy="214" r="31" fill="none" stroke="#34D399" stroke-opacity=".35"/><text x="220.0" y="221" text-anchor="middle" class="m" font-size="18" font-weight="700" fill="#34D399">✓</text></g><text x="24" y="276" class="m" font-size="10.5" fill="#5E8574">Oct 2025 · SQL</text><text x="416" y="276" text-anchor="end" class="m" font-size="10.5" fill="#5E8574">ID CE87CE3DFE5F</text></svg>

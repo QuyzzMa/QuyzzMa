@@ -56,7 +56,29 @@
 
 <img src="assets/header_06.svg" width="100%" alt="06 · Certificates" />
 
-<img src="assets/certs.svg" width="100%" alt="Chứng chỉ: Google Data Analytics Professional Certificate (Coursera); Meta Data Analyst Professional Certificate (Coursera); Microsoft Power BI for Data Analysis (Udemy); SQL (Advanced) — HackerRank." />
+<img src="assets/certs.svg" width="100%" alt="pytest certs: 7 chứng chỉ — Google Data Analytics, Meta Data Analyst, Power BI Beginner to Pro, Data Analyst Foundations, Excel Data Analysis &amp; Pivot Tables, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/6YXSU3REQCV5"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5.jpeg" width="100%" alt="Google Data Analytics Professional Certificate" /></a><br/><sub><b>Google Data Analytics</b> · <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/6YXSU3REQCV5">xác minh ↗</a></sub></td>
+<td width="50%" align="center" valign="top"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/EHKV5G1FTIKI"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI.jpeg" width="100%" alt="Meta Data Analyst Professional Certificate" /></a><br/><sub><b>Meta Data Analyst</b> · <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/EHKV5G1FTIKI">xác minh ↗</a></sub></td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://www.udemy.com/certificate/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c/"><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c.jpg" width="100%" alt="Master Microsoft Power BI: From Beginner to Data Analyst Pro — Udemy" /></a><br/><sub><b>Power BI: Beginner → Pro</b> · <a href="https://www.udemy.com/certificate/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c/">xác minh ↗</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://www.udemy.com/certificate/UC-466db07c-5114-44d8-af45-ae05fa38fe9e/"><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-466db07c-5114-44d8-af45-ae05fa38fe9e.jpg" width="100%" alt="Certified Data Analyst Foundations Course — Udemy" /></a><br/><sub><b>Data Analyst Foundations</b> · <a href="https://www.udemy.com/certificate/UC-466db07c-5114-44d8-af45-ae05fa38fe9e/">xác minh ↗</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://www.udemy.com/certificate/UC-8c0c1375-c27f-48df-9d6c-3f694938097a/"><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-8c0c1375-c27f-48df-9d6c-3f694938097a.jpg" width="100%" alt="Microsoft Excel Data Analysis and Pivot Tables — Udemy" /></a><br/><sub><b>Excel Data Analysis &amp; Pivot</b> · <a href="https://www.udemy.com/certificate/UC-8c0c1375-c27f-48df-9d6c-3f694938097a/">xác minh ↗</a></sub></td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://www.hackerrank.com/certificates/6499b222167b"><img src="assets/certs/hackerrank-python-basic.svg" width="100%" alt="HackerRank Python (Basic) Certificate" /></a><br/><sub><b>HackerRank Python (Basic)</b> · <a href="https://www.hackerrank.com/certificates/6499b222167b">xác minh ↗</a></sub></td>
+<td width="50%" align="center" valign="top"><a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/certs/hackerrank-sql-intermediate.svg" width="100%" alt="HackerRank SQL (Intermediate) Certificate" /></a><br/><sub><b>HackerRank SQL (Intermediate)</b> · <a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f">xác minh ↗</a></sub></td>
+</tr>
+</table>
 
 <br/><br/>
 
