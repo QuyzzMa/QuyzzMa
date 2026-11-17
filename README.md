@@ -58,20 +58,17 @@
 
 <img src="assets/certs.svg" width="100%" alt="pytest certs: 6 chứng chỉ — Google Data Analytics, Meta Data Analyst, Power BI Beginner to Pro, Data Analyst Foundations, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
 
-<table align="center">
-<tr>
-<td width="50%"><a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5.jpeg"><img src="assets/certs/btn-google-data-analytics.svg" width="100%" alt="Google Data Analytics Professional Certificate — bấm để xem chứng chỉ" /></a></td>
-<td width="50%"><a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI.jpeg"><img src="assets/certs/btn-meta-data-analyst.svg" width="100%" alt="Meta Data Analyst Professional Certificate — bấm để xem chứng chỉ" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c.jpg"><img src="assets/certs/btn-udemy-power-bi.svg" width="100%" alt="Master Microsoft Power BI: From Beginner to Data Analyst Pro — bấm để xem chứng chỉ" /></a></td>
-<td width="50%"><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-466db07c-5114-44d8-af45-ae05fa38fe9e.jpg"><img src="assets/certs/btn-udemy-data-analyst-foundations.svg" width="100%" alt="Certified Data Analyst Foundations Course — bấm để xem chứng chỉ" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://www.hackerrank.com/certificates/6499b222167b"><img src="assets/certs/btn-hackerrank-python.svg" width="100%" alt="HackerRank Python (Basic) — bấm để xem chứng chỉ" /></a></td>
-<td width="50%"><a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/certs/btn-hackerrank-sql.svg" width="100%" alt="HackerRank SQL (Intermediate) — bấm để xem chứng chỉ" /></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5.jpeg"><img src="assets/certs/btn-google-data-analytics.svg" width="49%" alt="Google Data Analytics Professional Certificate — bấm để xem chứng chỉ" /></a>
+<a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI.jpeg"><img src="assets/certs/btn-meta-data-analyst.svg" width="49%" alt="Meta Data Analyst Professional Certificate — bấm để xem chứng chỉ" /></a>
+<br/>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c.jpg"><img src="assets/certs/btn-udemy-power-bi.svg" width="49%" alt="Master Microsoft Power BI: From Beginner to Data Analyst Pro — bấm để xem chứng chỉ" /></a>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-466db07c-5114-44d8-af45-ae05fa38fe9e.jpg"><img src="assets/certs/btn-udemy-data-analyst-foundations.svg" width="49%" alt="Certified Data Analyst Foundations Course — bấm để xem chứng chỉ" /></a>
+<br/>
+<a href="https://www.hackerrank.com/certificates/6499b222167b"><img src="assets/certs/btn-hackerrank-python.svg" width="49%" alt="HackerRank Python (Basic) — bấm để xem chứng chỉ" /></a>
+<a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/certs/btn-hackerrank-sql.svg" width="49%" alt="HackerRank SQL (Intermediate) — bấm để xem chứng chỉ" /></a>
+<br/>
+</p>
 
 <br/><br/>
 
