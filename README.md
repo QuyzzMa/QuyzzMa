@@ -56,7 +56,7 @@
 
 <img src="assets/header_06.svg" width="100%" alt="06 · Certificates" />
 
-<img src="assets/certs.svg" width="100%" alt="pytest certs: 7 chứng chỉ — Google Data Analytics, Meta Data Analyst, Power BI Beginner to Pro, Data Analyst Foundations, Excel Data Analysis &amp; Pivot Tables, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
+<img src="assets/certs.svg" width="100%" alt="pytest certs: 6 chứng chỉ — Google Data Analytics, Meta Data Analyst, Power BI Beginner to Pro, Data Analyst Foundations, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
 
 <table align="center">
 <tr>
@@ -68,11 +68,8 @@
 <td width="50%"><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-466db07c-5114-44d8-af45-ae05fa38fe9e.jpg"><img src="assets/certs/btn-udemy-data-analyst-foundations.svg" width="100%" alt="Certified Data Analyst Foundations Course — bấm để xem chứng chỉ" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-8c0c1375-c27f-48df-9d6c-3f694938097a.jpg"><img src="assets/certs/btn-udemy-excel-pivot.svg" width="100%" alt="Microsoft Excel Data Analysis and Pivot Tables — bấm để xem chứng chỉ" /></a></td>
 <td width="50%"><a href="https://www.hackerrank.com/certificates/6499b222167b"><img src="assets/certs/btn-hackerrank-python.svg" width="100%" alt="HackerRank Python (Basic) — bấm để xem chứng chỉ" /></a></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/certs/btn-hackerrank-sql.svg" width="50%" alt="HackerRank SQL (Intermediate) — bấm để xem chứng chỉ" /></a></td>
+<td width="50%"><a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/certs/btn-hackerrank-sql.svg" width="100%" alt="HackerRank SQL (Intermediate) — bấm để xem chứng chỉ" /></a></td>
 </tr>
 </table>
 
