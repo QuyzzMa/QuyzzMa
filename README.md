@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Mã Phú Quý — Data Analyst · BI · Data Engineer, đang khám phá cả hai hướng. Nền tảng Kỹ thuật Phần mềm, có kinh nghiệm vận hành sàn TMĐT. TP. Hồ Chí Minh." />
+<img src="assets/v4/hero.svg" width="100%" alt="Mã Phú Quý — Fresher Data Analyst / Data Engineer, TP. Hồ Chí Minh. Cử nhân Kỹ thuật Phần mềm, ĐH Gia Định (2026). SQL, Python, Power BI." />
 
 <br/>
 
@@ -13,93 +13,32 @@
 
 <br/>
 
-<img src="assets/header_01.svg" width="100%" alt="01 · Hai con đường" />
+<img src="assets/v4/t-projects.svg" width="100%" alt="Dự án nổi bật" />
 
-<img src="assets/paths.svg" width="100%" alt="Data Analyst / BI — đã làm: Global E-Commerce Sales Dashboard (Power Query, 17 PivotTable, Power BI). Data Engineer — đã làm: Olist ELT (MySQL, nạp gia tăng, 17 test), Retail DWH (Stored Procedure, 11 DQ checks); đang học: Polars, DuckDB, PyArrow, PostgreSQL; chưa có kinh nghiệm thực tế: Airflow, dbt, AWS." />
+<a href="https://github.com/QuyzzMa/olist-elt"><img src="assets/v4/p-olist.svg" width="100%" alt="Olist ELT Pipeline — pipeline nạp dữ liệu gia tăng, 99.441 đơn hàng, 17 test tự động (Python, MySQL, pytest)" /></a>
+<a href="https://github.com/QuyzzMa/retail-data-warehouse-mysql"><img src="assets/v4/p-retail.svg" width="100%" alt="Retail Data Warehouse — 1.000.000 bản ghi, star schema, 11 kiểm tra chất lượng (MySQL)" /></a>
+<a href="https://github.com/QuyzzMa/Global_Ecommerce_Sales"><img src="assets/v4/p-global.svg" width="100%" alt="Global E-Commerce Sales — dashboard Power BI, biên lợi nhuận giảm từ 26,4% xuống 6,9% khi chiết khấu trên 20%" /></a>
 
-<br/><br/>
+<p><sub>Đang phát triển: <a href="https://github.com/QuyzzMa/ResumeIQ"><b>ResumeIQ</b></a> — đối chiếu CV với JD dựa trên bằng chứng (Python) · <a href="https://quyzzma.github.io">Portfolio</a> · <a href="https://github.com/QuyzzMa?tab=repositories">Tất cả repositories</a></sub></p>
 
-<img src="assets/header_02.svg" width="100%" alt="02 · Dự án" />
+<img src="assets/v4/t-skills.svg" width="100%" alt="Kỹ năng" />
 
-<table align="center">
-<tr>
-<td width="50%"><a href="https://github.com/QuyzzMa/Global_Ecommerce_Sales"><img src="assets/projects/global-ecommerce.svg" width="100%" alt="Global E-Commerce Sales — câu hỏi, cách làm, kết quả" /></a></td>
-<td width="50%"><a href="https://github.com/QuyzzMa/olist-elt"><img src="assets/projects/olist-elt.svg" width="100%" alt="Olist ELT Pipeline — câu hỏi, cách làm, kết quả" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/QuyzzMa/retail-data-warehouse-mysql"><img src="assets/projects/retail-dwh.svg" width="100%" alt="Retail Data Warehouse — câu hỏi, cách làm, kết quả" /></a></td>
-<td width="50%"><a href="https://github.com/QuyzzMa/ResumeIQ"><img src="assets/projects/resumeiq.svg" width="100%" alt="ResumeIQ — đang phát triển" /></a></td>
-</tr>
-</table>
+<img src="assets/v4/skills.svg" width="100%" alt="Đã dùng trong dự án: SQL (MySQL), Python, Power BI, Excel · Power Query, pytest, Git/GitHub. Đã sử dụng: Tableau, Pandas, Docker (cơ bản), MongoDB, Postman, Node.js · Vue.js. Đang học: PostgreSQL, Polars, DuckDB, PyArrow." />
 
-<p align="center"><sub><a href="https://quyzzma.github.io">portfolio</a> · <a href="https://github.com/QuyzzMa?tab=repositories">tất cả repositories</a></sub></p>
+<img src="assets/v4/t-exp.svg" width="100%" alt="Học vấn và kinh nghiệm" />
 
-<br/>
+<img src="assets/v4/exp.svg" width="100%" alt="04/2026 Cử nhân Kỹ thuật Phần mềm, ĐH Gia Định. 04–08/2025 Thực tập sinh IT tại BSC. Hiện tại quản lý BaLi Services. Kinh nghiệm vận hành sàn thương mại điện tử." />
 
-<img src="assets/header_03.svg" width="100%" alt="03 · Kỹ năng" />
-
-<img src="assets/skills.svg" width="100%" alt="Đã dùng trong dự án: SQL (MySQL), Stored Procedure, Python, pytest, star schema, Excel · Power Query, Power BI, Git/GitHub. Đã học & thực hành: Tableau, Pandas, MongoDB, Postman, Node.js · Vue.js, Docker (cơ bản). Đang học: SQL, Python, PostgreSQL, Polars, DuckDB, PyArrow. Chưa có kinh nghiệm thực tế: Airflow, dbt, AWS." />
-
-<br/><br/>
-
-<img src="assets/header_04.svg" width="100%" alt="04 · Hành trình" />
-
-<img src="assets/journey.svg" width="100%" alt="Hiện tại: tìm vị trí Data đầu tiên; quản lý BaLi Services. 11/2026 Olist ELT; 2026 Retail Data Warehouse; 07/2026 Global E-Commerce Sales Dashboard; 04/2026 tốt nghiệp Kỹ thuật Phần mềm, ĐH Gia Định; 04–08/2025 thực tập sinh IT tại BSC. Kinh nghiệm khác: vận hành sàn thương mại điện tử." />
-
-<br/><br/>
-
-<img src="assets/header_05.svg" width="100%" alt="05 · Đang học" />
-
-<img src="assets/learning.svg" width="100%" alt="Đang làm: củng cố SQL và Python nền tảng; de_project (Python ETL, Polars, DuckDB); phát triển ResumeIQ. Hướng đang cân nhắc — DA: business metrics & KPI, data visualization & storytelling, business insights; DE: Airflow, dbt, Docker, cloud, data orchestration." />
-
-<br/><br/>
-
-<img src="assets/header_06.svg" width="100%" alt="06 · Chứng chỉ" />
-
-<img src="assets/certs.svg" width="100%" alt="6 chứng chỉ: Google Data Analytics, Meta Data Analyst, Master Microsoft Power BI, Data Analyst Foundations, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
+<img src="assets/v4/t-certs.svg" width="100%" alt="Chứng chỉ" />
 
 <p align="center">
-<a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5.jpeg"><img src="assets/certs/btn-google-data-analytics.svg" width="49%" alt="Google Data Analytics Professional Certificate — bấm để xem chứng chỉ" /></a>
-<a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI.jpeg"><img src="assets/certs/btn-meta-data-analyst.svg" width="49%" alt="Meta Data Analyst Professional Certificate — bấm để xem chứng chỉ" /></a>
+<a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5.jpeg"><img src="assets/v4/c-google.svg" width="32%" alt="Google Data Analytics Professional Certificate" /></a>
+<a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI/CERTIFICATE_LANDING_PAGE~EHKV5G1FTIKI.jpeg"><img src="assets/v4/c-meta.svg" width="32%" alt="Meta Data Analyst Professional Certificate" /></a>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c.jpg"><img src="assets/v4/c-powerbi.svg" width="32%" alt="Master Microsoft Power BI: From Beginner to Data Analyst Pro" /></a>
 <br/>
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-72fe8ba9-5041-4ade-89a1-9b42a043bf2c.jpg"><img src="assets/certs/btn-udemy-power-bi.svg" width="49%" alt="Master Microsoft Power BI: From Beginner to Data Analyst Pro — bấm để xem chứng chỉ" /></a>
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-466db07c-5114-44d8-af45-ae05fa38fe9e.jpg"><img src="assets/certs/btn-udemy-data-analyst-foundations.svg" width="49%" alt="Certified Data Analyst Foundations Course — bấm để xem chứng chỉ" /></a>
-<br/>
-<a href="https://www.hackerrank.com/certificates/6499b222167b"><img src="assets/certs/btn-hackerrank-python.svg" width="49%" alt="HackerRank Python (Basic) — bấm để xem chứng chỉ" /></a>
-<a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/certs/btn-hackerrank-sql.svg" width="49%" alt="HackerRank SQL (Intermediate) — bấm để xem chứng chỉ" /></a>
-<br/>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-466db07c-5114-44d8-af45-ae05fa38fe9e.jpg"><img src="assets/v4/c-foundations.svg" width="32%" alt="Certified Data Analyst Foundations Course" /></a>
+<a href="https://www.hackerrank.com/certificates/6499b222167b"><img src="assets/v4/c-python.svg" width="32%" alt="HackerRank Python (Basic)" /></a>
+<a href="https://www.hackerrank.com/certificates/ce87ce3dfe5f"><img src="assets/v4/c-sql.svg" width="32%" alt="HackerRank SQL (Intermediate)" /></a>
 </p>
 
-<br/>
-
-<img src="assets/header_07.svg" width="100%" alt="07 · Trên GitHub" />
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top"><img src="https://github-readme-stats-fast.vercel.app/api?username=QuyzzMa&show_icons=true&include_all_commits=true&bg_color=121016&border_color=342C3B&title_color=FF9F43&text_color=CDBFAE&icon_color=FFD166&ring_color=FF9F43&border_radius=14" width="100%" alt="GitHub stats" /></td>
-<td width="50%" valign="top"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QuyzzMa&layout=compact&bg_color=121016&border_color=342C3B&title_color=FF9F43&text_color=CDBFAE&border_radius=14" width="100%" alt="Top languages" /></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="assets/header_08.svg" width="100%" alt="08 · Ngoài lề" />
-
-<details>
-<summary><code>▸ git show quy:about.json</code> <sub>← bấm để xem</sub></summary>
-
-```json
-{
-  "looking_for": "Entry-level Data role — Data Analyst / BI / Data Engineer",
-  "still_deciding": "DA hay DE — chọn dựa trên bằng chứng từ dự án thật",
-  "also_running": "BaLi Services — website, thiết kế, thẻ NFC, digital marketing",
-  "interests": ["AI agents", "automation", "Facebook data extraction", "video processing"],
-  "principle": "Không ghi vào hồ sơ điều mình chưa thật sự làm"
-}
-```
-
-</details>
-
-<br/>
-
-<img src="assets/footer.svg" width="100%" alt="Cảm ơn bạn đã ghé qua." />
+<img src="assets/v4/footer.svg" width="100%" alt="Liên hệ: maphuquy2134@gmail.com · LinkedIn in/maphuquy24072004" />
