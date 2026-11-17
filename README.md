@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/maphuquy24072004"><img src="https://img.shields.io/badge/LinkedIn-07110D?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/maphuquy24072004"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-07110D?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn"/></a>
 <a href="https://quyzzma.github.io"><img src="https://img.shields.io/badge/Portfolio-07110D?style=for-the-badge&logo=githubpages&logoColor=2DD4BF" alt="Portfolio"/></a>
 <a href="mailto:maphuquy2134@gmail.com"><img src="https://img.shields.io/badge/Email-07110D?style=for-the-badge&logo=gmail&logoColor=A3E635" alt="Email"/></a>
 <a href="https://github.com/QuyzzMa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-07110D?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Repositories"/></a>
@@ -64,8 +64,8 @@
 
 <table align="center" border="0">
 <tr>
-<td width="50%" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=QuyzzMa&show_icons=true&include_all_commits=true&bg_color=07110D&border_color=1C3A2C&title_color=34D399&text_color=A7C4B5&icon_color=A3E635&ring_color=34D399&border_radius=14" width="100%" alt="GitHub stats" /></td>
-<td width="50%" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuyzzMa&layout=compact&bg_color=07110D&border_color=1C3A2C&title_color=34D399&text_color=A7C4B5&border_radius=14" width="100%" alt="Top languages" /></td>
+<td width="50%" valign="top"><img src="https://github-readme-stats-fast.vercel.app/api?username=QuyzzMa&show_icons=true&include_all_commits=true&bg_color=07110D&border_color=1C3A2C&title_color=34D399&text_color=A7C4B5&icon_color=A3E635&ring_color=34D399&border_radius=14" width="100%" alt="GitHub stats" /></td>
+<td width="50%" valign="top"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QuyzzMa&layout=compact&bg_color=07110D&border_color=1C3A2C&title_color=34D399&text_color=A7C4B5&border_radius=14" width="100%" alt="Top languages" /></td>
 </tr>
 </table>
 
