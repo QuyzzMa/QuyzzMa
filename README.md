@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Mã Phú Quý — Data Engineer (Fresher), TP. Hồ Chí Minh. Một lần chạy pipeline: extract, transform, quality, reconcile, load." />
+<img src="assets/hero.svg" width="100%" alt="Mã Phú Quý — Data Analyst · BI · Data Engineer, đang khám phá cả hai hướng. Nền tảng Kỹ thuật Phần mềm, có kinh nghiệm vận hành sàn TMĐT. TP. Hồ Chí Minh." />
 
 <br/>
 
@@ -13,50 +13,50 @@
 
 <br/>
 
-<img src="assets/header_01.svg" width="100%" alt="01 · About" />
+<img src="assets/header_01.svg" width="100%" alt="01 · Hai con đường" />
 
-<img src="assets/about.svg" width="100%" alt="Star schema fct_quy — Mã Phú Quý, Data Engineer (Fresher), TP. Hồ Chí Minh. Cử nhân Kỹ thuật Phần mềm, ĐH Gia Định (04/2026). Thế mạnh: pipeline ELT gia tăng theo watermark, upsert idempotent, rollback khi lỗi; Data Warehouse, Star Schema; kiểm tra chất lượng và đối soát dữ liệu; Data Dictionary, Data Lineage, pytest; Power BI, Tableau." />
-
-<br/><br/>
-
-<img src="assets/header_02.svg" width="100%" alt="02 · Impact" />
-
-<img src="assets/impact.svg" width="100%" alt="Impact: 99.441 đơn hàng qua pipeline ELT gia tăng; 1.000.000 bản ghi trong kho dữ liệu MySQL; 229.498 giá trị rating lệch ở 9.000 seller được phát hiện; 500+ product ID gán sai category/brand; 17 test pytest; 7/7 checks khớp mỗi lần chạy." />
+<img src="assets/paths.svg" width="100%" alt="Data Analyst / BI — đã làm: Global E-Commerce Sales Dashboard (Power Query, 17 PivotTable, Power BI). Data Engineer — đã làm: Olist ELT (MySQL, nạp gia tăng, 17 test), Retail DWH (Stored Procedure, 11 DQ checks); đang học: Polars, DuckDB, PyArrow, PostgreSQL; chưa có kinh nghiệm thực tế: Airflow, dbt, AWS." />
 
 <br/><br/>
 
-<img src="assets/header_03.svg" width="100%" alt="03 · Projects" />
+<img src="assets/header_02.svg" width="100%" alt="02 · Dự án" />
 
 <table align="center">
 <tr>
-<td width="50%"><a href="https://github.com/QuyzzMa/olist-elt"><img src="assets/projects/olist-elt.svg" width="100%" alt="olist-elt — pipeline ELT gia tăng cho bộ dữ liệu Olist" /></a></td>
-<td width="50%"><a href="https://github.com/QuyzzMa/retail-data-warehouse-mysql"><img src="assets/projects/retail-data-warehouse-mysql.svg" width="100%" alt="retail-data-warehouse-mysql — kho dữ liệu MySQL và incremental ETL" /></a></td>
+<td width="50%"><a href="https://github.com/QuyzzMa/Global_Ecommerce_Sales"><img src="assets/projects/global-ecommerce.svg" width="100%" alt="Global E-Commerce Sales — câu hỏi, cách làm, kết quả" /></a></td>
+<td width="50%"><a href="https://github.com/QuyzzMa/olist-elt"><img src="assets/projects/olist-elt.svg" width="100%" alt="Olist ELT Pipeline — câu hỏi, cách làm, kết quả" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/QuyzzMa/Global_Ecommerce_Sales"><img src="assets/projects/Global_Ecommerce_Sales.svg" width="100%" alt="Global_Ecommerce_Sales — dashboard Excel và Power BI" /></a></td>
-<td width="50%"><a href="https://quyzzma.github.io"><img src="assets/projects/portfolio.svg" width="100%" alt="quyzzma.github.io — portfolio cá nhân" /></a></td>
+<td width="50%"><a href="https://github.com/QuyzzMa/retail-data-warehouse-mysql"><img src="assets/projects/retail-dwh.svg" width="100%" alt="Retail Data Warehouse — câu hỏi, cách làm, kết quả" /></a></td>
+<td width="50%"><a href="https://github.com/QuyzzMa/ResumeIQ"><img src="assets/projects/resumeiq.svg" width="100%" alt="ResumeIQ — đang phát triển" /></a></td>
 </tr>
 </table>
 
-<p align="center"><sub><a href="https://github.com/QuyzzMa?tab=repositories">→ xem tất cả repositories</a></sub></p>
+<p align="center"><sub><a href="https://quyzzma.github.io">portfolio</a> · <a href="https://github.com/QuyzzMa?tab=repositories">tất cả repositories</a></sub></p>
 
 <br/>
 
-<img src="assets/header_04.svg" width="100%" alt="04 · Journey" />
+<img src="assets/header_03.svg" width="100%" alt="03 · Kỹ năng" />
 
-<img src="assets/journey.svg" width="100%" alt="Hành trình: Olist ELT (11/2026); Retail Data Warehouse & Incremental ETL (2026); Global E-Commerce Sales Dashboard (07/2026); Cử nhân Kỹ thuật Phần mềm, ĐH Gia Định (04/2026); Thực tập sinh IT tại Công ty CP CNTT & Viễn thông BSC (04/2025 – 08/2025)." />
-
-<br/><br/>
-
-<img src="assets/header_05.svg" width="100%" alt="05 · Data Stack" />
-
-<img src="assets/stack.svg" width="100%" alt="Data stack. Languages: SQL, MySQL Stored Procedure, Python, JavaScript (Node.js). Data engineering: ETL/ELT, Incremental Load, Data Warehouse, Star Schema, Dimensional Modeling. Quality: data quality checks, reconciliation, Data Dictionary, Data Lineage, pytest. DB & tools: MySQL, MongoDB, Git/GitHub, Docker, Postman, Power Query. BI: Power BI, Tableau, Excel PivotTable." />
+<img src="assets/skills.svg" width="100%" alt="Đã dùng trong dự án: SQL (MySQL), Stored Procedure, Python, pytest, star schema, Excel · Power Query, Power BI, Git/GitHub. Đã học & thực hành: Tableau, Pandas, MongoDB, Postman, Node.js · Vue.js, Docker (cơ bản). Đang học: SQL, Python, PostgreSQL, Polars, DuckDB, PyArrow. Chưa có kinh nghiệm thực tế: Airflow, dbt, AWS." />
 
 <br/><br/>
 
-<img src="assets/header_06.svg" width="100%" alt="06 · Certificates" />
+<img src="assets/header_04.svg" width="100%" alt="04 · Hành trình" />
 
-<img src="assets/certs.svg" width="100%" alt="pytest certs: 6 chứng chỉ — Google Data Analytics, Meta Data Analyst, Power BI Beginner to Pro, Data Analyst Foundations, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
+<img src="assets/journey.svg" width="100%" alt="Hiện tại: tìm vị trí Data đầu tiên; quản lý BaLi Services. 11/2026 Olist ELT; 2026 Retail Data Warehouse; 07/2026 Global E-Commerce Sales Dashboard; 04/2026 tốt nghiệp Kỹ thuật Phần mềm, ĐH Gia Định; 04–08/2025 thực tập sinh IT tại BSC. Kinh nghiệm khác: vận hành sàn thương mại điện tử." />
+
+<br/><br/>
+
+<img src="assets/header_05.svg" width="100%" alt="05 · Đang học" />
+
+<img src="assets/learning.svg" width="100%" alt="Đang làm: củng cố SQL và Python nền tảng; de_project (Python ETL, Polars, DuckDB); phát triển ResumeIQ. Hướng đang cân nhắc — DA: business metrics & KPI, data visualization & storytelling, business insights; DE: Airflow, dbt, Docker, cloud, data orchestration." />
+
+<br/><br/>
+
+<img src="assets/header_06.svg" width="100%" alt="06 · Chứng chỉ" />
+
+<img src="assets/certs.svg" width="100%" alt="6 chứng chỉ: Google Data Analytics, Meta Data Analyst, Master Microsoft Power BI, Data Analyst Foundations, HackerRank Python (Basic), HackerRank SQL (Intermediate)." />
 
 <p align="center">
 <a href="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5/CERTIFICATE_LANDING_PAGE~6YXSU3REQCV5.jpeg"><img src="assets/certs/btn-google-data-analytics.svg" width="49%" alt="Google Data Analytics Professional Certificate — bấm để xem chứng chỉ" /></a>
@@ -70,9 +70,9 @@
 <br/>
 </p>
 
-<br/><br/>
+<br/>
 
-<img src="assets/header_07.svg" width="100%" alt="07 · Activity" />
+<img src="assets/header_07.svg" width="100%" alt="07 · Trên GitHub" />
 
 <table align="center" border="0">
 <tr>
@@ -83,28 +83,23 @@
 
 <br/>
 
-<img src="assets/header_08.svg" width="100%" alt="08 · Beyond the Code" />
+<img src="assets/header_08.svg" width="100%" alt="08 · Ngoài lề" />
 
 <details>
-<summary><code>▸ SELECT * FROM quy.secrets;</code> <sub>← bấm để chạy</sub></summary>
+<summary><code>▸ git show quy:about.json</code> <sub>← bấm để xem</sub></summary>
 
 ```json
 {
-  "status": 200,
-  "data": {
-    "availability": "Open to Data Engineer Fresher / Intern",
-    "based_in": "TP. Hồ Chí Minh",
-    "favorite_stack": ["SQL", "Python", "MySQL", "Power BI"],
-    "pipeline_motto": "Chạy lại bao nhiêu lần cũng không mất, không trùng",
-    "contact": "maphuquy2134@gmail.com"
-  }
+  "looking_for": "Entry-level Data role — Data Analyst / BI / Data Engineer",
+  "still_deciding": "DA hay DE — chọn dựa trên bằng chứng từ dự án thật",
+  "also_running": "BaLi Services — website, thiết kế, thẻ NFC, digital marketing",
+  "interests": ["AI agents", "automation", "Facebook data extraction", "video processing"],
+  "principle": "Không ghi vào hồ sơ điều mình chưa thật sự làm"
 }
 ```
-
-<sub>✓ 1 row returned · 0 rows rejected · reconciliation OK</sub>
 
 </details>
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Cảm ơn bạn đã ghé qua — cùng xây dữ liệu đúng, đủ và đáng tin." />
+<img src="assets/footer.svg" width="100%" alt="Cảm ơn bạn đã ghé qua." />
