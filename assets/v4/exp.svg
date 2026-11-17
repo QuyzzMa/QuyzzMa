@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="292" viewBox="0 0 900 292" xml:space="preserve"><style>
-.m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Consolas,'Courier New',monospace} .s{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .f{font-family:Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif}
+.m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Consolas,'Courier New',monospace} .s{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .f{font-family:Cambria,'Noto Serif',Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif}
 @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 @keyframes inL{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:none}}
 @keyframes pop{0%{opacity:0}60%{opacity:1}100%{opacity:1}}
